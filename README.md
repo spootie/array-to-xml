@@ -1,6 +1,4 @@
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # Convert an array to xml
 
 [![Latest Version](https://img.shields.io/github/release/spatie/array-to-xml.svg?style=flat-square)](https://github.com/spatie/array-to-xml/releases)
@@ -9,14 +7,6 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/array-to-xml.svg?style=flat-square)](https://packagist.org/packages/spatie/array-to-xml)
 
 This package provides a very simple class to convert an array to an xml string.
-
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/array-to-xml.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/array-to-xml)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
 
 ## Install
 
@@ -218,7 +208,7 @@ This will result in:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<helloyouluckypeople xmlns="https://github.com/spatie/array-to-xml">
+<helloyouluckypeople xmlns="https://github.com/spootie/array-to-xml">
     <Good_guys>
         <Guy>
             <name>Luke Skywalker</name>
@@ -512,24 +502,11 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/spatie/.github/blob/main/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/spootie/.github/blob/main/CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
 Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
-
-## Postcardware
-
-You're free to use this package, but if it makes it to your production environment we highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using.
-
-Our address is: Spatie, Kruikstraat 22, 2018 Antwerp, Belgium.
-
-We publish all received postcards [on our company website](https://spatie.be/en/opensource/postcards).
-
-## Credits
-
-- [Freek Van der Herten](https://github.com/freekmurze)
-- [All Contributors](../../contributors)
 
 ## License
 
